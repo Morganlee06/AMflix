@@ -7,14 +7,14 @@ namespace AMflix.Data
     {
         public static void SeedMovies(ApplicationDbContext context)
         {
-            if(!context.Movies.Any())
+            if (!context.Movies.Any())
             {
                 var Movies = new List<Movies>
                 {
                     new Movies
                     {
-                     Title = "Morgan And The Seven Seas",
-                     Description = "Morgan is a powerful Caribbean priest, " +
+                        Title = "Morgan And The Seven Seas",
+                        Description = "Morgan is a powerful Caribbean priest, " +
                      "deeply connected to the ancient spiritual traditions of " +
                      "Vodou, Santería, and other Afro-Caribbean religions." +
                      "With his weathered face, braided hair, and sharp eyes," +
@@ -25,13 +25,37 @@ namespace AMflix.Data
                      " and the growing influence of the modern world." +
                      " He walks a fine line between the physical and spiritual realms, haunted by his ancestors'" +
                      " expectations and the forces he commands.",
-                     AgeRating = "PG13",
-                     RealeaseDate = DateOnly.Parse("21/12/2009"),
+                        AgeRating = "PG13",
+                        RealeaseDate = DateOnly.Parse("21/12/2009")
+                    },
 
-                    }
+                     new Movies
+                    {
+                      Title = "ACE And The East Green Treasure",
+                      Description = "ACE is a Week Litte Boy, " +
+                      "deeply connected to the ancient spiritual powers" +
+                      " twisted hair, and glistening green eyes," +
+                      " he commands respect and has a powerful army to protect him with his incredible intellect" +
+                      " he belives he can take on the world .",
+                        AgeRating = "12A",
+                        RealeaseDate = DateOnly.Parse("11/6/2007")
+                     },
+
+                     new Movies
+                    {
+                      Title = "Faruk and the Neverland Pirates",
+                      Description = "faruk is a powerful Pirate , " +
+                      "deeply connected to his Nigeran traditions." +
+                      "With his Dry face, Nappy hair, and Blue eyes," +
+                      "he commands respect as a healer, protector," +
+                      " and guardian of sacred knowledge.",
+                        AgeRating = "18+",
+                        RealeaseDate = DateOnly.Parse("7/7/2017")
+                     }
                 };
             }
-        }
 
+        }
     }
 }
+
