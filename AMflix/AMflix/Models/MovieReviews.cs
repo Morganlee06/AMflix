@@ -3,17 +3,17 @@
     public class MovieReviews
     {
 
-        public int Id { get; set; }
+        public int Id { get; set; } // Primary key
 
-        public int MoviesId { get; set; }
+        public int MoviesId { get; set; } // Forign key
 
-        public string Name { get; set; }
+        public string Name { get; set; } // Name of the aurthour of the review
 
-        public string Review { get; set; }
+        public string Review { get; set; } // The review they have left
 
-        public DateTime PublishDate { get; set; }
+        public DateTime PublishDate { get; set; } // Date the review was published
 
-        public Movies Movies { get; set; }
+        public Movies Movies { get; set; } // Navigation property
 
     }
 }
