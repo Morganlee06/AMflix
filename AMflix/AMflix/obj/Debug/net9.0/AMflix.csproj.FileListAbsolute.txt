@@ -394,3 +394,4 @@
 \\dom.sandwell.ac.uk\Student\HomeOdd\692115\GitHub\AMflix\AMflix\AMflix\obj\Debug\net9.0\AMflix.genruntimeconfig.cache
 \\dom.sandwell.ac.uk\Student\HomeOdd\692115\GitHub\AMflix\AMflix\AMflix\obj\Debug\net9.0\ref\AMflix.dll
 \\dom.sandwell.ac.uk\Student\HomeOdd\692115\GitHub\AMflix\AMflix\AMflix\obj\Debug\net9.0\AMflix.sourcelink.json
+\\dom.sandwell.ac.uk\Student\HomeOdd\692115\GitHub\AMflix\AMflix\AMflix\obj\Debug\net9.0\compressed\2pgsg0r3ws-gmhxocfbtm.gz

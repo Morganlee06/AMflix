@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "AMflix\\wwwroot\\css\\style.css",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "AMflix\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T14:04:12.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Movies.cs",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "AMflix\\Models\\Movies.cs",
@@ -35,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "AMflix\\Views\\Movies\\Index.cshtml",
@@ -47,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "AMflix\\Controllers\\MoviesController.cs",
