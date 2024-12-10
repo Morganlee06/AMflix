@@ -181,12 +181,18 @@ namespace AMflix.Controllers
         {
             if (ascending == true)
             {
-                var 
+                var SortedByAR = await _context.Movies.OrderBy(m => m.AgeRating).ToListAsync();
+                return View("Index", SortedByAR);
             }
 
-
+            else if (ascending == false)
+            {
+                var SortedByAR = await _context.Movies.OrderByDescending(m => m.AgeRating).ToListAsync();
+                return View("Index", SortedByAR);
+            }
+            return View("Index");
         }
     }
-}
 
+}
 
