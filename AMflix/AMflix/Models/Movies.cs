@@ -11,7 +11,7 @@
 
         public string AgeRating { get; set; } // Age rating of the movie 
 
-        public DateTime RealeaseDate { get; set; } // The realse date of the movie 
+        public DateOnly RealeaseDate { get; set; } // The realse date of the movie 
 
 
         public ICollection<MovieRating>? movieRatings { get; set; } // Links this model to the MovieRating model
