@@ -4,11 +4,15 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Movies</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+<a asp-action="SortByAgeRating" asp-route-ascending="true">Sort by age rating (Acending)</a>
+<a asp-action="SortByAgeRating" asp-route-ascending="false">Sort by age rating (Decending)</a>
+
 <table class="table">
     <thead>
         <tr>

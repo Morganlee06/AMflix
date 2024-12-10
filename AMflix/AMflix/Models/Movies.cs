@@ -3,19 +3,20 @@
     public class Movies
     {
 
-        public int Id { get; set; }
+        public int Id { get; set; } // Primary key
 
-        public string Title { get; set; }   
+        public string Title { get; set; } // Title of the movie  
 
-        public string Description { get; set; }
+        public string Description { get; set; } // Description of the movie
 
-        public string AgeRating { get; set; }
+        public string AgeRating { get; set; } // Age rating of the movie 
 
-        public DateTime RealeaseDate { get; set; }
+        public DateTime RealeaseDate { get; set; } // The realse date of the movie 
 
-        public ICollection<MovieRating>? movieRatings { get; set; }
 
-        public ICollection<MovieReviews>? MovieReviews { get; set; }
+        public ICollection<MovieRating>? movieRatings { get; set; } // Links this model to the MovieRating model
+
+        public ICollection<MovieReviews>? MovieReviews { get; set; } // Links this model to the MovieReview model
 
     }
 }
