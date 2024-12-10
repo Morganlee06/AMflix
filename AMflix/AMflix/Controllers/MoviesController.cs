@@ -192,6 +192,13 @@ namespace AMflix.Controllers
             }
             return View("Index");
         }
+
+        public async Task<IActionResult> FilterByName(string name)
+        {
+            var FilterdMovie = await _context.Movies.Where(m => m.Title == name).ToListAsync();
+            return View("Index", FilterdMovie);
+        }
+
     }
 
 }

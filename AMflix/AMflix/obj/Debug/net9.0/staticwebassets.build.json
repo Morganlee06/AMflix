@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e03uF6Ha2HWneBKOgoD7o/qGk3M922aa4ennOyOi/6I=",
+  "Hash": "v33A5e5K+yO1s3yl5DS3zO7UMM5g+cu8WyFIx9gwUJY=",
   "Source": "AMflix",
   "BasePath": "_content/AMflix",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\692115\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-gmhxocfbtm.gz",
+      "Identity": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-mdk6h8n3g4.gz",
       "SourceId": "AMflix",
       "SourceType": "Discovered",
       "ContentRoot": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/AMflix",
-      "RelativePath": "css/style#[.{fingerprint=gmhxocfbtm}]?.css.gz",
+      "RelativePath": "css/style#[.{fingerprint=mdk6h8n3g4}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jpvssup9tf",
-      "Integrity": "ecycQ+GYvaqBrkIfkhVwYjz772yRYRgz5thu8ck1CNU=",
+      "Fingerprint": "1cbjicyq4e",
+      "Integrity": "IWI5kjRCdJgZ/RCDxydQn4XL20uagscmiDQd0/5P0DE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\style.css"
@@ -2761,8 +2761,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gmhxocfbtm",
-      "Integrity": "iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04=",
+      "Fingerprint": "mdk6h8n3g4",
+      "Integrity": "qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -6327,12 +6327,12 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-gmhxocfbtm.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-mdk6h8n3g4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001831501832"
+          "Quality": "0.002237136465"
         }
       ],
       "ResponseHeaders": [
@@ -6342,15 +6342,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "545"
+          "Value": "446"
         },
         {
           "Name": "ETag",
-          "Value": "\"ecycQ+GYvaqBrkIfkhVwYjz772yRYRgz5thu8ck1CNU=\""
+          "Value": "\"IWI5kjRCdJgZ/RCDxydQn4XL20uagscmiDQd0/5P0DE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 14:03:02 GMT"
+          "Value": "Tue, 10 Dec 2024 14:05:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6370,13 +6370,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04=\""
+          "Value": "W/\"qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04="
+          "Value": "sha256-qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY="
         }
       ]
     },
@@ -6391,7 +6391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1669"
+          "Value": "1251"
         },
         {
           "Name": "Content-Type",
@@ -6399,11 +6399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04=\""
+          "Value": "\"qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 14:03:02 GMT"
+          "Value": "Tue, 10 Dec 2024 14:05:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6413,13 +6413,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04="
+          "Value": "sha256-qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY="
         }
       ]
     },
     {
       "Route": "css/style.css.gz",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-gmhxocfbtm.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-mdk6h8n3g4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6428,7 +6428,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "545"
+          "Value": "446"
         },
         {
           "Name": "Content-Type",
@@ -6436,11 +6436,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ecycQ+GYvaqBrkIfkhVwYjz772yRYRgz5thu8ck1CNU=\""
+          "Value": "\"IWI5kjRCdJgZ/RCDxydQn4XL20uagscmiDQd0/5P0DE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 14:03:02 GMT"
+          "Value": "Tue, 10 Dec 2024 14:05:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6458,18 +6458,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ecycQ+GYvaqBrkIfkhVwYjz772yRYRgz5thu8ck1CNU="
+          "Value": "sha256-IWI5kjRCdJgZ/RCDxydQn4XL20uagscmiDQd0/5P0DE="
         }
       ]
     },
     {
-      "Route": "css/style.gmhxocfbtm.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-gmhxocfbtm.gz",
+      "Route": "css/style.mdk6h8n3g4.css",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-mdk6h8n3g4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001831501832"
+          "Quality": "0.002237136465"
         }
       ],
       "ResponseHeaders": [
@@ -6479,15 +6479,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "545"
+          "Value": "446"
         },
         {
           "Name": "ETag",
-          "Value": "\"ecycQ+GYvaqBrkIfkhVwYjz772yRYRgz5thu8ck1CNU=\""
+          "Value": "\"IWI5kjRCdJgZ/RCDxydQn4XL20uagscmiDQd0/5P0DE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 14:03:02 GMT"
+          "Value": "Tue, 10 Dec 2024 14:05:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6507,13 +6507,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04=\""
+          "Value": "W/\"qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gmhxocfbtm"
+          "Value": "mdk6h8n3g4"
         },
         {
           "Name": "label",
@@ -6521,12 +6521,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04="
+          "Value": "sha256-qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY="
         }
       ]
     },
     {
-      "Route": "css/style.gmhxocfbtm.css",
+      "Route": "css/style.mdk6h8n3g4.css",
       "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6536,7 +6536,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1669"
+          "Value": "1251"
         },
         {
           "Name": "Content-Type",
@@ -6544,11 +6544,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04=\""
+          "Value": "\"qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 14:03:02 GMT"
+          "Value": "Tue, 10 Dec 2024 14:05:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6558,7 +6558,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gmhxocfbtm"
+          "Value": "mdk6h8n3g4"
         },
         {
           "Name": "label",
@@ -6566,13 +6566,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iLDN7w/fcP3Y+IY+RlMBj/PKeqOuswBCb6bF/dN9p04="
+          "Value": "sha256-qq2i6HRb35M9863pE+6fMBmy0PhleepgbBDmTARChBY="
         }
       ]
     },
     {
-      "Route": "css/style.gmhxocfbtm.css.gz",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-gmhxocfbtm.gz",
+      "Route": "css/style.mdk6h8n3g4.css.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\2pgsg0r3ws-mdk6h8n3g4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6581,7 +6581,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "545"
+          "Value": "446"
         },
         {
           "Name": "Content-Type",
@@ -6589,11 +6589,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ecycQ+GYvaqBrkIfkhVwYjz772yRYRgz5thu8ck1CNU=\""
+          "Value": "\"IWI5kjRCdJgZ/RCDxydQn4XL20uagscmiDQd0/5P0DE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 14:03:02 GMT"
+          "Value": "Tue, 10 Dec 2024 14:05:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6611,7 +6611,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gmhxocfbtm"
+          "Value": "mdk6h8n3g4"
         },
         {
           "Name": "label",
@@ -6619,7 +6619,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ecycQ+GYvaqBrkIfkhVwYjz772yRYRgz5thu8ck1CNU="
+          "Value": "sha256-IWI5kjRCdJgZ/RCDxydQn4XL20uagscmiDQd0/5P0DE="
         }
       ]
     },

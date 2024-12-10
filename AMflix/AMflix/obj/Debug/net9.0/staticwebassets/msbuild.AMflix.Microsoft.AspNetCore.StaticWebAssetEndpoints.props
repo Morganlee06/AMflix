@@ -27,14 +27,14 @@
     <StaticWebAssetEndpoint Include="_content/AMflix/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iLDN7w/fcP3Y\u002BIY\u002BRlMBj/PKeqOuswBCb6bF/dN9p04="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1669"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iLDN7w/fcP3Y\u002BIY\u002BRlMBj/PKeqOuswBCb6bF/dN9p04=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 14:03:02 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qq2i6HRb35M9863pE\u002B6fMBmy0PhleepgbBDmTARChBY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1251"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qq2i6HRb35M9863pE\u002B6fMBmy0PhleepgbBDmTARChBY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 14:05:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AMflix/css/style.gmhxocfbtm.css">
+    <StaticWebAssetEndpoint Include="_content/AMflix/css/style.mdk6h8n3g4.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gmhxocfbtm"},{"Name":"integrity","Value":"sha256-iLDN7w/fcP3Y\u002BIY\u002BRlMBj/PKeqOuswBCb6bF/dN9p04="},{"Name":"label","Value":"_content/AMflix/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1669"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iLDN7w/fcP3Y\u002BIY\u002BRlMBj/PKeqOuswBCb6bF/dN9p04=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 14:03:02 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mdk6h8n3g4"},{"Name":"integrity","Value":"sha256-qq2i6HRb35M9863pE\u002B6fMBmy0PhleepgbBDmTARChBY="},{"Name":"label","Value":"_content/AMflix/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1251"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qq2i6HRb35M9863pE\u002B6fMBmy0PhleepgbBDmTARChBY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 14:05:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AMflix/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
