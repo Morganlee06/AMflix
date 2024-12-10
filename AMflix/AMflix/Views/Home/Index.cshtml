@@ -1,8 +1,59 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Home</title>
+        <link rel="stylesheet" href="~/css/style.css" />
+    </head>
+    <body>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <div class="container">
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="Search for movies...">
+            <button onclick="searchMovies()">Search</button>
+        </div>
+
+        <h2>Featured Reviews</h2>
+        <div class="featured-reviews">
+            <div class="review">
+                <img src="https://via.placeholder.com/300x400" alt="Movie Poster">
+                <h3>Movie Title 1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum.</p>
+            </div>
+
+            <div class="review">
+                <img src="https://via.placeholder.com/300x400" alt="Movie Poster">
+                <h3>Movie Title 2</h3>
+                <p>Donec nec justo eget felis facilisis fermentum. Pellentesque habitant morbi tristique senectus et netus.</p>
+            </div>
+
+            <div class="review">
+                <img src="https://via.placeholder.com/300x400" alt="Movie Poster">
+                <h3>Movie Title 3</h3>
+                <p>Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
+            </div>
+        </div>
+
+        <div class="featured-reviews">
+            <div class="review">
+                <img src="https://via.placeholder.com/300x400" alt="Movie Poster">
+                <h3>Movie Title 4</h3>
+                <p>Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum.</p>
+            </div>
+
+            <div class="review">
+                <img src="https://via.placeholder.com/300x400" alt="Movie Poster">
+                <h3>Movie Title 5</h3>
+                <p>Donec aliquet, augue non tincidunt tincidunt, lectus ante vehicula orci, euismod fringilla turpis.</p>
+            </div>
+
+            <div class="review">
+                <img src="https://via.placeholder.com/300x400" alt="Movie Poster">
+                <h3>Movie Title 6</h3>
+                <p>Fusce sit amet est a augue convallis convallis. Mauris eget erat a nisi ultricies cursus non ac neque.</p>
+            </div>
+        </div>
+    </div>
+
+
+    </body>
+    </html>
