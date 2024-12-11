@@ -16,6 +16,13 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+// Automatically seed data if the database is empty
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetService<ApplicationDbContext>();
+    SeedData.SeedMovies(context); // Seed data if necessary
+}
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

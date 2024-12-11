@@ -80,9 +80,8 @@ namespace AMflix.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("AgeRating")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("AgeRating")
+                        .HasColumnType("int");
 
                     b.Property<string>("Description")
                         .IsRequired()
