@@ -3,43 +3,22 @@
   "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\views\\moviereviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\views\\movieratings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\controllers\\movieratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\controllers\\moviereviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\views\\movieratings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\models\\movierating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\models\\moviereviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,169 +34,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Index.cshtml",
-              "RelativeDocumentMoniker": "AMflix\\Views\\MovieRatings\\Index.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Index.cshtml",
-              "RelativeToolTip": "AMflix\\Views\\MovieRatings\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowCcAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieReviews\\Index.cshtml",
+              "RelativeDocumentMoniker": "AMflix\\Views\\MovieReviews\\Index.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieReviews\\Index.cshtml",
+              "RelativeToolTip": "AMflix\\Views\\MovieReviews\\Index.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwFYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T10:52:33.076Z",
+              "WhenOpened": "2024-12-11T15:02:01.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "bootstrap-utilities.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "RelativeDocumentMoniker": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "RelativeToolTip": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "ViewState": "AgIAABMVAAAAAAAAAAAAABkVAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-11T10:51:22.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "bootstrap-reboot.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-              "RelativeDocumentMoniker": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-              "RelativeToolTip": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-              "ViewState": "AgIAAK0BAAAAAAAAAAAuwMQBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-11T10:50:21.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeDocumentMoniker": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeToolTip": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ViewState": "AgIAAIoEAAAAAAAAAAAvwHsEAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-11T10:50:13.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAALMqAAAAAAAAAAAwwL0qAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-11T10:48:23.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AMflix\\wwwroot\\css\\site.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AMflix\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-11T10:39:27.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "style.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "AMflix\\wwwroot\\css\\style.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "AMflix\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-11T10:39:09.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MovieRating.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Models\\MovieRating.cs",
-              "RelativeDocumentMoniker": "AMflix\\Models\\MovieRating.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Models\\MovieRating.cs",
-              "RelativeToolTip": "AMflix\\Models\\MovieRating.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:21:22.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "AMflix\\Views\\Movies\\Index.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "AMflix\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T10:18:26.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\Movies\\Create.cshtml",
-              "RelativeDocumentMoniker": "AMflix\\Views\\Movies\\Create.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\Movies\\Create.cshtml",
-              "RelativeToolTip": "AMflix\\Views\\Movies\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T10:17:48.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "MovieReviewsController.cs",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MovieReviewsController.cs",
               "RelativeDocumentMoniker": "AMflix\\Controllers\\MovieReviewsController.cs",
               "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MovieReviewsController.cs",
               "RelativeToolTip": "AMflix\\Controllers\\MovieReviewsController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwDIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAApwDcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:14:00.146Z",
+              "WhenOpened": "2024-12-11T14:46:51.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Create.cshtml",
-              "RelativeDocumentMoniker": "AMflix\\Views\\MovieRatings\\Create.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Create.cshtml",
-              "RelativeToolTip": "AMflix\\Views\\MovieRatings\\Create.cshtml",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "AMflix\\Controllers\\MoviesController.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "AMflix\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:46:39.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieReviews.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Models\\MovieReviews.cs",
+              "RelativeDocumentMoniker": "AMflix\\Models\\MovieReviews.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Models\\MovieReviews.cs",
+              "RelativeToolTip": "AMflix\\Models\\MovieReviews.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T10:02:18.416Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:46:35.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MovieRatingsController.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MovieRatingsController.cs",
-              "RelativeDocumentMoniker": "AMflix\\Controllers\\MovieRatingsController.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MovieRatingsController.cs",
-              "RelativeToolTip": "AMflix\\Controllers\\MovieRatingsController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:00:36.581Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Index.cshtml",
+              "RelativeDocumentMoniker": "AMflix\\Views\\MovieRatings\\Index.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Index.cshtml",
+              "RelativeToolTip": "AMflix\\Views\\MovieRatings\\Index.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T14:38:39.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "AMflix\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "AMflix\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T14:38:00.997Z",
               "EditorCaption": ""
             }
           ]

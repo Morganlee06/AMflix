@@ -4,11 +4,92 @@
     ViewData["Title"] = "Index";
 }
 
+<style>
+    /* General styles for the page */
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+
+    h1 {
+        color: #333;
+    }
+
+    /* Link styles */
+    a {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+    /* Button styles */
+    button, a {
+        padding: 5px 10px;
+        border: none;
+        background-color: #007bff;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+        margin: 25px;
+    }
+
+        button:hover, a:hover {
+            background-color: #0056b3;
+        }
+
+    /* Table styles */
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+        .table th, .table td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        .table th {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+
+        .table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .table tr:hover {
+            background-color: #f1f1f1;
+        }
+
+    /* Form styles */
+    form {
+        margin-bottom: 15px;
+    }
+
+    input[type="text"] {
+        padding: 5px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        margin-right: 5px;
+    }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #007bff;
+        }
+</style>
 
 <h1>Ratings</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Create New</a>5
 </p>
 <table>
     <thead>

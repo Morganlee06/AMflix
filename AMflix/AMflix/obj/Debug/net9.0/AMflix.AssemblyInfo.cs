@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMflix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6173035ca6760a82a41b3760bc3fa1e5288896e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19c502dd037e19286c3f287f86b2fab1eb7092cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMflix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMflix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
