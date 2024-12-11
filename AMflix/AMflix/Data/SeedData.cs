@@ -5,7 +5,7 @@ namespace AMflix.Data
 {
     public class SeedData
     {
-        public static void SeedMovies(ApplicationDbContext context) 
+        public static void SeedMovies(ApplicationDbContext context)
         {
             if (!context.Movies.Any()) // Checks if there are any movies already in the database
             {
@@ -60,9 +60,83 @@ namespace AMflix.Data
                 context.SaveChanges(); // Save the changes
 
             }
-
         }
 
+            public static void SeedReviews(ApplicationDbContext context) {
+            if (!context.MovieReviews.Any()) // Checks if there are any movies already in the database
+            {
+                var MovieReviews = new List<MovieReviews> // Creates a list containing the movies we want to add
+                {
+                    // Creates a new MovieReviews
+                    new MovieReviews
+                    {
+                      Review = "mixes gritty realism with pirate lore, offering a darker, more suspenseful take on life at sea. With stunning cinematography and a gripping storyline, it explores betrayal and survival rather than treasure hunts",
+                      Name =  "Ausar-re",
+                      PublishDate = DateTime.Parse("7/5/2015"),
+                      MoviesId = 1,
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+
+                     },
+
+                     new MovieReviews
+                     {
+                      Review = "the movie is a thrilling, high-stakes adventure that delivers just what fans of swashbuckling action crave. With stunning visuals of treacherous seas and fierce battles, the film breathes new life into the pirate genre",
+                      Name =  "Ausar-re",
+                         PublishDate = DateTime.Parse("12/2/2013"),
+                         MoviesId = 2,
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+                     },
+
+                     new MovieReviews
+                     {
+                      Review = "the movie was one of the best i have seen in years it will go down in history if you haven't watch it go and watch it now ",
+                      Name =  "Ausar-re",
+                         PublishDate = DateTime.Parse("3/8/2017"),
+                         MoviesId = 3,
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+                     }
+                };
+
+                context.MovieReviews.AddRange(MovieReviews); // Pass the list through
+                context.SaveChanges(); // Save the changes
+            }
+        }
+
+        public static void SeedRatings(ApplicationDbContext context)
+        {
+            if (!context.MovieRating.Any()) // Checks if there are any movies already in the database
+            {
+                var MovieRating = new List<MovieRating> // Creates a list containing the movies we want to add
+                {
+                    // Creates a new MovieReviews
+                    new MovieRating
+                     {
+                      Rating = 3,
+                      MoviesId = 1,
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+                     },
+
+                     new MovieRating
+                     {
+                      Rating = 5,
+                      MoviesId = 2,
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+                     },
+
+                     new MovieRating
+                     {
+                      Rating = 4,
+                      MoviesId = 3,
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+                     }
+                };
+
+                context.MovieRating.AddRange(MovieRating); // Pass the list through
+                context.SaveChanges(); // Save the changes
+
+            }
+        }
+        }
     }
-}
+
 
