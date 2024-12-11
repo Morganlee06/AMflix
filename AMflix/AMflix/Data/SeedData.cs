@@ -63,8 +63,6 @@ namespace AMflix.Data
 
         }
 
-        Context.Movies.AddRange(Movies); // it addes the seed data to the context
-        context.SaveChange(); // Save the changes to the database 
     }
 }
 

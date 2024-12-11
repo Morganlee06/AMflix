@@ -53,6 +53,10 @@
                 @Html.DisplayFor(modelItem => item.RealeaseDate)
             </td>
             <td>
+                @* Creates a button to leave a review *@
+                <a asp-controller="MovieReviews" asp-action="Create" asp-route-movieReviewId="@item.Id">Review</a>
+                @* Creates a button to leave a review *@
+                <a asp-controller="MovieRatings" asp-action="Create" asp-route-movieratingId="@item.Id">Rate</a>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>

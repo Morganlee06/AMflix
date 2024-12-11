@@ -50,10 +50,10 @@ namespace AMflix.Controllers
 
         // GET: MovieReviews/Create
         // Displays the form for creating a new movie review.
-        public IActionResult Create()
+        public IActionResult Create(int movieReviewId)
         {
-            ViewData["MoviesId"] = new SelectList(_context.Movies, "Id", "Id"); // Populates the dropdown list for selecting a movie.
-            return View(); // Returns the Create View.
+            ViewBag.MoviesId = movieReviewId;
+            return View();
         }
 
         // POST: MovieReviews/Create
@@ -63,6 +63,19 @@ namespace AMflix.Controllers
         [ValidateAntiForgeryToken] // Validates the Anti-Forgery Token for security.
         public async Task<IActionResult> Create([Bind("Id,MoviesId,Name,Review,PublishDate")] MovieReviews movieReviews)
         {
+
+            var movieReview = await _context.Movies.FindAsync(movieReviews.MoviesId);
+
+            if (movieReview == null)
+            {
+                return View(movieReviews);
+            }
+
+            movieReviews.Movies = movieReview;
+
+            ModelState.Remove("Movies");
+
+
             if (ModelState.IsValid) // Checks if the user-provided data is valid.
             {
                 _context.Add(movieReviews); // Adds the review to the database context.

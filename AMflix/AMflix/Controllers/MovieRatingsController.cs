@@ -50,10 +50,10 @@ namespace AMflix.Controllers
 
         // GET: MovieRatings/Create
         // Displays the form for creating a new movie rating.
-        public IActionResult Create()
+        public IActionResult Create(int movieratingId)
         {
-            ViewData["MoviesId"] = new SelectList(_context.Movies, "Id", "Id"); // Populates the dropdown list for selecting a movie.
-            return View(); // Returns the Create View.
+            ViewBag.MovieReviewId = movieratingId;
+            return View();
         }
 
         // POST: MovieRatings/Create
