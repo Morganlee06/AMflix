@@ -23,6 +23,20 @@ using (var scope = app.Services.CreateScope())
     SeedData.SeedMovies(context); // Seed data if necessary
 }
 
+// Automatically seed data if the database is empty
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetService<ApplicationDbContext>();
+    SeedData.SeedReviews(context); // Seed data if necessary
+}
+
+// Automatically seed data if the database is empty
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetService<ApplicationDbContext>();
+    SeedData.SeedRatings(context); // Seed data if necessary
+}
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
