@@ -49,12 +49,16 @@ namespace AMflix.Controllers
         }
 
         // GET: MovieReviews/Create
-        // Displays the form for creating a new movie review.
+        // Action method to handle the creation of a new movie review
         public IActionResult Create(int movieReviewId)
         {
+            // Pass the movieReviewId to the View using ViewBag for use in the UI
             ViewBag.MoviesId = movieReviewId;
+
+            // Return the Create view to the user
             return View();
         }
+
 
         // POST: MovieReviews/Create
         // Handles the submission of the Create form.
@@ -64,16 +68,22 @@ namespace AMflix.Controllers
         public async Task<IActionResult> Create([Bind("Id,MoviesId,Name,Review,PublishDate")] MovieReviews movieReviews)
         {
 
+            // Attempt to find the movie in the database by its ID
             var movieReview = await _context.Movies.FindAsync(movieReviews.MoviesId);
 
+            // Check if the movie was not found in the database
             if (movieReview == null)
             {
+                // If no movie is found, return the view with the original movieReviews object
                 return View(movieReviews);
             }
 
+            // If the movie is found, assign it to the Movies property of movieReviews
             movieReviews.Movies = movieReview;
 
+            // Remove the validation state for the "Movies" property to allow for model state updates
             ModelState.Remove("Movies");
+
 
 
             if (ModelState.IsValid) // Checks if the user-provided data is valid.

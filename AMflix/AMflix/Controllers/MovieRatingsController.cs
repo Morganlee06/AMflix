@@ -50,11 +50,16 @@ namespace AMflix.Controllers
 
         // GET: MovieRatings/Create
         // Displays the form for creating a new movie rating.
+        // Action method to display the Create view for a movie rating
         public IActionResult Create(int movieRatingId)
         {
-            ViewBag.MovieReviewId = movieRatingId;
+            // Store the movieRatingId in ViewBag to pass it to the view for further use
+            ViewBag.MoviesId = movieRatingId;
+
+            // Return the Create view to the user
             return View();
         }
+
 
         // POST: MovieRatings/Create
         // Handles the submission of the Create form.
@@ -63,6 +68,24 @@ namespace AMflix.Controllers
         [ValidateAntiForgeryToken] // Validates the Anti-Forgery Token for security.
         public async Task<IActionResult> Create([Bind("Id,MoviesId,Rating")] MovieRating movieRating)
         {
+
+            // Attempt to find the movie in the database using the provided MoviesId
+            var movieRate = await _context.Movies.FindAsync(movieRating.MoviesId);
+
+            // Check if the movie was not found in the database
+            if (movieRate == null)
+            {
+                // If the movie does not exist, return the view with the original movieRating object
+                return View(movieRating);
+            }
+
+            // If the movie is found, assign it to the Movies property of movieRating
+            movieRating.Movies = movieRate;
+
+            // Remove the validation state for the "Movies" property to allow for updates without validation errors
+            ModelState.Remove("Movies");
+
+
             if (ModelState.IsValid) // Checks if the user-provided data is valid.
             {
                 _context.Add(movieRating); // Adds the rating to the database context.

@@ -413,8 +413,11 @@ svg {
 }
 
 table {
-  caption-side: bottom;
-  border-collapse: collapse;
+    width: 100%; /* Make the table span the entire width of its container */
+    border-collapse: collapse; /* Remove gaps between table cells */
+    margin: 20px 0; /* Add some space above and below the table */
+    font-size: 16px; /* Set a comfortable font size */
+    text-align: left; /* Align text to the left */
 }
 
 caption {
@@ -425,19 +428,26 @@ caption {
 }
 
 th {
-  text-align: inherit;
-  text-align: -webkit-match-parent;
+    background-color: #f4f4f4; /* Light gray background for header cells */
+    color: #333; /* Dark text for contrast */
+    font-weight: bold; /* Make header text bold */
+    padding: 12px; /* Add padding for spacing */
+    border-bottom: 2px solid #ddd; /* Add a border below headers */
 }
 
-thead,
-tbody,
-tfoot,
-tr,
-td,
-th {
-  border-color: inherit;
-  border-style: solid;
-  border-width: 0;
+
+td
+ {
+    padding: 12px; /* Add padding for spacing */
+    border-bottom: 1px solid #ddd; /* Add a light border below each row */
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9; /* Light gray background for even rows */
+}
+
+tr:hover {
+    background-color: #f1f1f1; /* Slightly darker gray when hovering */
 }
 
 label {
