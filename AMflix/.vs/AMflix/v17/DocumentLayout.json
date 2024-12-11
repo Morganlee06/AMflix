@@ -30,12 +30,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dbo.Movies [Data]",
+              "Title": "dbo.Movies.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_AMflix_14bd1e0b_0134_41f0_a529_cadcbf836cc4/True/SqlTable/dbo.Movies.sql",
-              "ToolTip": "dbo.Movies [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_AMflix_14bd1e0b_0134_41f0_a529_cadcbf836cc4/True/SqlTable/dbo.Movies.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-11T11:12:32.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:12:32.926Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "AMflix\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:01:54.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:01:54.501Z"
             },
             {
               "$type": "Document",
@@ -73,8 +71,7 @@
               "RelativeToolTip": "AMflix\\Models\\MovieReviews.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:43:22.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T10:43:22.89Z"
             },
             {
               "$type": "Document",
@@ -86,8 +83,7 @@
               "RelativeToolTip": "AMflix\\Models\\MovieRating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:40:33.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T10:40:33.439Z"
             }
           ]
         }

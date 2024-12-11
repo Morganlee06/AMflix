@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cNFb/dJEICHfKCnbbhKYAqihZdszVnT4pTHxplw95UQ=",
+  "Hash": "kEzvsjaBVDANaVhXEHlGGXDDIwcMAMhdRLLJ5KhAhy0=",
   "Source": "AMflix",
   "BasePath": "_content/AMflix",
   "Mode": "Default",
@@ -2159,12 +2159,12 @@
       "OriginalItemSpec": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-zub09dkrxp.gz",
+      "Identity": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-kebkgjrkfz.gz",
       "SourceId": "AMflix",
       "SourceType": "Discovered",
       "ContentRoot": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/AMflix",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=zub09dkrxp}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=kebkgjrkfz}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2173,8 +2173,8 @@
       "RelatedAsset": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ndo96zskmb",
-      "Integrity": "q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=",
+      "Fingerprint": "18b68rtwne",
+      "Integrity": "r13D5PGX18zBnFnvNwmWgUe6M98rCbIp20fZAhmWQH4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -2306,12 +2306,12 @@
       "OriginalItemSpec": "C:\\Users\\692450\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-qesaa3a1fm.gz",
+      "Identity": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-u60vg9bf7r.gz",
       "SourceId": "AMflix",
       "SourceType": "Discovered",
       "ContentRoot": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/AMflix",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint=qesaa3a1fm}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint=u60vg9bf7r}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2320,8 +2320,8 @@
       "RelatedAsset": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yhemft0x44",
-      "Integrity": "GsqAqFf0gorXCNSLhkvLgjTUzhvnj/r/ziu5TKmgRn8=",
+      "Fingerprint": "yc4zo4mgmd",
+      "Integrity": "0gjkeNOP77EbpZ6Fomjej4JsTCdBtZaqE82TrGP1xNc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
@@ -2824,8 +2824,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zub09dkrxp",
-      "Integrity": "CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=",
+      "Fingerprint": "kebkgjrkfz",
+      "Integrity": "vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -3160,8 +3160,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qesaa3a1fm",
-      "Integrity": "rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=",
+      "Fingerprint": "u60vg9bf7r",
+      "Integrity": "SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
@@ -15826,12 +15826,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-zub09dkrxp.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-kebkgjrkfz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000029611205"
+          "Quality": "0.000029366851"
         }
       ],
       "ResponseHeaders": [
@@ -15841,15 +15841,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33770"
+          "Value": "34051"
         },
         {
           "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
+          "Value": "\"r13D5PGX18zBnFnvNwmWgUe6M98rCbIp20fZAhmWQH4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15869,13 +15869,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
+          "Value": "W/\"vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
+          "Value": "sha256-vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY="
         }
       ]
     },
@@ -15890,7 +15890,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "293102"
+          "Value": "293822"
         },
         {
           "Name": "Content-Type",
@@ -15898,11 +15898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
+          "Value": "\"vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15912,7 +15912,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
+          "Value": "sha256-vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY="
         }
       ]
     },
@@ -15955,7 +15955,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-zub09dkrxp.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-kebkgjrkfz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15964,7 +15964,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33770"
+          "Value": "34051"
         },
         {
           "Name": "Content-Type",
@@ -15972,11 +15972,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
+          "Value": "\"r13D5PGX18zBnFnvNwmWgUe6M98rCbIp20fZAhmWQH4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15994,7 +15994,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps="
+          "Value": "sha256-r13D5PGX18zBnFnvNwmWgUe6M98rCbIp20fZAhmWQH4="
         }
       ]
     },
@@ -16330,6 +16330,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.kebkgjrkfz.css",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-kebkgjrkfz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029366851"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34051"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r13D5PGX18zBnFnvNwmWgUe6M98rCbIp20fZAhmWQH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kebkgjrkfz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.kebkgjrkfz.css",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kebkgjrkfz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGIhF1+YzOJ+xwvyGf/sbeleocF58lg4P3MecELDwBY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.kebkgjrkfz.css.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-kebkgjrkfz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r13D5PGX18zBnFnvNwmWgUe6M98rCbIp20fZAhmWQH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kebkgjrkfz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r13D5PGX18zBnFnvNwmWgUe6M98rCbIp20fZAhmWQH4="
         }
       ]
     },
@@ -18340,167 +18501,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-EHv6Fxyfhm4sQaIznaio1clpsqF/v/3Le3ecZHQESCc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-zub09dkrxp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000029611205"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33770"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zub09dkrxp"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "293102"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zub09dkrxp"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css.gz",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\ttafadhb9v-zub09dkrxp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33770"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zub09dkrxp"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps="
         }
       ]
     },
@@ -21186,12 +21186,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-qesaa3a1fm.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-u60vg9bf7r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000293513355"
+          "Quality": "0.000267809320"
         }
       ],
       "ResponseHeaders": [
@@ -21201,15 +21201,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3406"
+          "Value": "3733"
         },
         {
           "Name": "ETag",
-          "Value": "\"GsqAqFf0gorXCNSLhkvLgjTUzhvnj/r/ziu5TKmgRn8=\""
+          "Value": "\"0gjkeNOP77EbpZ6Fomjej4JsTCdBtZaqE82TrGP1xNc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21229,13 +21229,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
+          "Value": "W/\"SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
+          "Value": "sha256-SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g="
         }
       ]
     },
@@ -21250,7 +21250,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12661"
+          "Value": "13559"
         },
         {
           "Name": "Content-Type",
@@ -21258,11 +21258,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
+          "Value": "\"SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21272,7 +21272,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
+          "Value": "sha256-SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g="
         }
       ]
     },
@@ -21476,7 +21476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.gz",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-qesaa3a1fm.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-u60vg9bf7r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21485,7 +21485,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3406"
+          "Value": "3733"
         },
         {
           "Name": "Content-Type",
@@ -21493,11 +21493,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GsqAqFf0gorXCNSLhkvLgjTUzhvnj/r/ziu5TKmgRn8=\""
+          "Value": "\"0gjkeNOP77EbpZ6Fomjej4JsTCdBtZaqE82TrGP1xNc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21515,7 +21515,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GsqAqFf0gorXCNSLhkvLgjTUzhvnj/r/ziu5TKmgRn8="
+          "Value": "sha256-0gjkeNOP77EbpZ6Fomjej4JsTCdBtZaqE82TrGP1xNc="
         }
       ]
     },
@@ -22360,167 +22360,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-mKOek+hcGxc9JNCDfWknxZ1k1HnVlpIzrAjn/7Qovgc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-qesaa3a1fm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000293513355"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3406"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GsqAqFf0gorXCNSLhkvLgjTUzhvnj/r/ziu5TKmgRn8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qesaa3a1fm"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12661"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qesaa3a1fm"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css.gz",
-      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-qesaa3a1fm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3406"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GsqAqFf0gorXCNSLhkvLgjTUzhvnj/r/ziu5TKmgRn8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 11:51:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qesaa3a1fm"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GsqAqFf0gorXCNSLhkvLgjTUzhvnj/r/ziu5TKmgRn8="
         }
       ]
     },
@@ -23861,6 +23700,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-tQ/ZHQ02xDDr7P2Fg/W0cSQUbq1b8IQ7Xs+98LoDdrI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.u60vg9bf7r.css",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-u60vg9bf7r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000267809320"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0gjkeNOP77EbpZ6Fomjej4JsTCdBtZaqE82TrGP1xNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u60vg9bf7r"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.u60vg9bf7r.css",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u60vg9bf7r"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqlBazmaOBrT450DrTNKcdq2HtaNkFv6aho3b78G43g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.u60vg9bf7r.css.gz",
+      "AssetFile": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\692450\\GitHub\\AMflix\\AMflix\\AMflix\\obj\\Debug\\net9.0\\compressed\\va223lbhxi-u60vg9bf7r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0gjkeNOP77EbpZ6Fomjej4JsTCdBtZaqE82TrGP1xNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 14:25:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u60vg9bf7r"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0gjkeNOP77EbpZ6Fomjej4JsTCdBtZaqE82TrGP1xNc="
         }
       ]
     },
