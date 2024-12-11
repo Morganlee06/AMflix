@@ -84,7 +84,7 @@ namespace AMflix.Data
                       Name =  "Ausar-re",
                          PublishDate = DateTime.Parse("12/2/2013"),
                          MoviesId = 2,
-                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 2)
                      },
 
                      new MovieReviews
@@ -93,7 +93,7 @@ namespace AMflix.Data
                       Name =  "Ausar-re",
                          PublishDate = DateTime.Parse("3/8/2017"),
                          MoviesId = 3,
-                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 1)
+                      Movies = context.Movies.FirstOrDefault(x=>x.Id == 3)
                      }
                 };
 
