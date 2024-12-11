@@ -50,9 +50,9 @@ namespace AMflix.Controllers
 
         // GET: MovieRatings/Create
         // Displays the form for creating a new movie rating.
-        public IActionResult Create(int movieratingId)
+        public IActionResult Create(int movieRatingId)
         {
-            ViewBag.MovieReviewId = movieratingId;
+            ViewBag.MovieReviewId = movieRatingId;
             return View();
         }
 

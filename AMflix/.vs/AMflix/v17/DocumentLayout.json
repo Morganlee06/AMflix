@@ -1,12 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\views\\movieratings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DF6795-6928-42C1-AFA8-87BE5032D807}|AMflix\\AMflix.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\amflix\\amflix\\amflix\\controllers\\movieratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Create.cshtml",
+              "RelativeDocumentMoniker": "AMflix\\Views\\MovieRatings\\Create.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Views\\MovieRatings\\Create.cshtml",
+              "RelativeToolTip": "AMflix\\Views\\MovieRatings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T10:02:18.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRatingsController.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MovieRatingsController.cs",
+              "RelativeDocumentMoniker": "AMflix\\Controllers\\MovieRatingsController.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\AMflix\\AMflix\\AMflix\\Controllers\\MovieRatingsController.cs",
+              "RelativeToolTip": "AMflix\\Controllers\\MovieRatingsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:00:36.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
